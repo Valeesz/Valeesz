@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Frontend
 - 📫 How to reach me ...
 - alikhvar2001@gmail.com
-- 01604584043
+
 
 <!---
 Valeesz/Valeesz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
